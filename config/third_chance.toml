@@ -1,0 +1,6 @@
+# If an entity loses at least this percentage of their max HP in one hit, leading to their death,
+# they will instead be brought to 1 HP (half a heart).
+# range: 0.0 - 1.0
+# default: 0.75
+percent = 0.75
+

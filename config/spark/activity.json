@@ -1,0 +1,38 @@
+[
+  {
+    "user": {
+      "type": "other",
+      "name": "Console"
+    },
+    "time": 1771956041379,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/s7RKfT6QQt"
+    }
+  },
+  {
+    "user": {
+      "type": "other",
+      "name": "Console"
+    },
+    "time": 1771954844417,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/LHTlYwwuvj"
+    }
+  },
+  {
+    "user": {
+      "type": "other",
+      "name": "Console"
+    },
+    "time": 1771953411452,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/DgyB0SkqgM"
+    }
+  }
+]
